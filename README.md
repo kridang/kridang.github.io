@@ -1,2 +1,1 @@
-This is a profile card for Kristy Dang ....
-hello
+This is a portfolio website for Kristy Dang

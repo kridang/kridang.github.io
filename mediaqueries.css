@@ -1,9 +1,27 @@
-@media screen and (max-width: 1200px) {
-    #desktop-nav {
-        display: none;
-    }
+/* @media (max-width: 1200px) {
+  html {
+    font-size: 55%;
+  }
 
-    #hamburger-nav {
-        display: flex;
-    }
+  .col {
+    width: 50%;
+    margin-bottom: 10px;
+  }
 }
+
+@media (max-width: 991px) {
+  #menu-icon {
+    display: block;
+  }
+
+  #navbar {
+    position: absolute;
+    top: 100%;
+    right: -100%;
+    width: 255px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: var();
+  }
+} */
