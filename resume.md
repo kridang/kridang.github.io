@@ -19,7 +19,7 @@ http://www.linkedin.com/in/dangnikristy
   - Cumulative GPA: 3.913
 
 
- ***[Tacoma Community College][] is***
+ ***[Tacoma Community College][] is a public CC in Tacoma, Washington, with strong academic programs and transfer preparation for four-year universities.***
 
 ### University of Washington (Seattle, WA)
   **Bachelor of Arts: Geography - Data Science, Nursing (Intended)**
